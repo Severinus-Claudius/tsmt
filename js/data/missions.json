@@ -9900,5 +9900,54 @@
             "requirement_type": "K",
             "goal": "30"
         }]
+    }, {
+        "id": 537,
+        "player": "Mike Schmidt",
+        "rating": "95",
+        "series": "HW",
+        "duration": "Single Game",
+        "team": "Phillies",
+        "position": "3B",
+        "program_type": "Career Arcs",
+        "program": "Mike Schmidt",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "4"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "3"
+        }, {
+            "requirement_type": "HR",
+            "goal": "2"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "4"
+        }]
+    }, {
+        "id": 538,
+        "player": "Mike Schmidt",
+        "rating": "95",
+        "series": "HW",
+        "duration": "Multi-Game",
+        "team": "Phillies",
+        "position": "3B",
+        "program_type": "Career Arcs",
+        "program": "Mike Schmidt",
+        "requirements": [{
+            "requirement_type": "H",
+            "goal": "80"
+        }, {
+            "requirement_type": "XBH",
+            "goal": "50"
+        }, {
+            "requirement_type": "HR",
+            "goal": "30"
+        }, {
+            "requirement_type": "R",
+            "goal": "40"
+        }, {
+            "requirement_type": "RBI",
+            "goal": "60"
+        }]
     }]
 }
